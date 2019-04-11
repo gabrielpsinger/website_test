@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+name: "Gabriel P Singer"
+navbar:
+  title: "Gabriel P Singer"
+  left:
+   - text: "Home"
+     href: index.html
+   - text: "About"
+     href: about.html
