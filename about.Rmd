@@ -1,5 +1,6 @@
 ---
 title: "More information about this website"
+output: html_document
 ---
 
 Here I am.

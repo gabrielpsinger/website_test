@@ -1,5 +1,6 @@
 ---
 title: "Gabriel Singer's Website test"
+output: html_document
 ---
 
 
